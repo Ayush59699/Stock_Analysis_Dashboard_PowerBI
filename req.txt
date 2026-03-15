@@ -1,0 +1,7 @@
+yfinance
+pandas
+numpy
+openpyxl
+ta
+openai
+python-dotenv
